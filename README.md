@@ -111,6 +111,12 @@ EV1234
 
     "📩 Received Message: "    "EV Security System Active"
 ```
+## OUTPUT
+![WhatsApp Image 2025-11-11 at 10 54 33_16ffc164](https://github.com/user-attachments/assets/8d65ce54-3c7d-4845-9e0c-4b6aafc63e26)
+
+![WhatsApp Image 2025-11-11 at 11 05 11_e173b000](https://github.com/user-attachments/assets/b8642b85-de5f-4451-9d8e-8d0801d2872c)
+
+
  
 ## RESULT
 The MATLAB program successfully simulates an Embedded IoT Security System for Electric Vehicles, demonstrating:
@@ -122,6 +128,6 @@ The MATLAB program successfully simulates an Embedded IoT Security System for El
 •	Green Bar (1) → Access Granted ✅
 •	Red Bar (1) → Intrusion Detected ⚠️
 •	Bars at 0 → No intrusion or incorrect password
- ![WhatsApp Image 2025-11-11 at 10 54 33_4b29324f](https://github.com/user-attachments/assets/af4558b5-f2f6-4be5-9e00-fe407db53785)
+ 
 
 
